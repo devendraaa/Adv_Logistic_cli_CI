@@ -3,7 +3,7 @@
 
 Advanced CLI for a Logistics Application built with Python, designed using industry-grade tooling and CI practices.
 
-This project demonstrates how to build, test, lint, format, containerize, and deploy a modern Python CLI and API-based logistics system using best practices.
+This project demonstrates how to build, test, lint, format and deploy a modern Python CLI and API-based logistics system using best practices.
 
 ## 📌 Features
 
@@ -39,6 +39,7 @@ This project demonstrates how to build, test, lint, format, containerize, and de
 
 ## 🌐 Run FastAPI Server
 `uvicorn main:app --reload`
+
 
 
 
