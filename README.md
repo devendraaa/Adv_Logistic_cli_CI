@@ -9,13 +9,13 @@ This project demonstrates how to build, test, lint, format, containerize, and de
 
 🖥️ Command Line Interface (CLI) using click
 
-🧪 Automated testing with pytest
+###🧪 Automated testing with pytest
 
-📊 Test coverage using pytest-cov
+###📊 Test coverage using pytest-cov
 
-🎨 Code formatting with black
+###🎨 Code formatting with black
 
-🧹 Static analysis using pylint
+###🧹 Static analysis using pylint
 
 🌍 Geolocation & distance calculations using geopy
 
@@ -40,6 +40,7 @@ CI/CD	GitHub Actions
 
 ## 🌐 Run FastAPI Server
 `uvicorn main:app --reload`
+
 
 
 
