@@ -35,8 +35,12 @@ Geolocation	geopy
 CI/CD	GitHub Actions
 
 
-### 🖥️ Run CLI
-`python cli.py --help`
+## 🖥️ Run CLI
+`python logistic_cli.py --help`
+
+## 🌐 Run FastAPI Server
+`uvicorn main:app --reload`
+
 
 
 
