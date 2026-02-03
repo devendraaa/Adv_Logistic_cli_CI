@@ -23,11 +23,11 @@ This project demonstrates how to build, test, lint, format, containerize, and de
 
 🔁 CI/CD pipeline using GitHub Actions
 
-🏗️ Tech Stack
-### Category	Tools
-### Language	Python 3.10
-CLI	click
-Testing	pytest, pytest-cov
+###🏗️ Tech Stack
+#### Category	Tools
+#### Language	Python 3.10
+#### CLI	click
+#### Testing	pytest, pytest-cov
 Linting	pylint
 Formatting	black
 API	FastAPI, Uvicorn
@@ -40,6 +40,7 @@ CI/CD	GitHub Actions
 
 ## 🌐 Run FastAPI Server
 `uvicorn main:app --reload`
+
 
 
 
