@@ -1,11 +1,11 @@
 [![Python CI](https://github.com/devendraaa/Adv_Logistic_cli_CI/actions/workflows/main.yml/badge.svg)](https://github.com/devendraaa/Adv_Logistic_cli_CI/actions/workflows/main.yml)
-🚚 Adv_Logistic_cli_CI
+### 🚚 Adv_Logistic_cli_CI
 
 Advanced CLI for a Logistics Application built with Python, designed using industry-grade tooling and CI practices.
 
 This project demonstrates how to build, test, lint, format, containerize, and deploy a modern Python CLI and API-based logistics system using best practices.
 
-📌 Features
+### 📌 Features
 
 🖥️ Command Line Interface (CLI) using click
 
@@ -21,8 +21,6 @@ This project demonstrates how to build, test, lint, format, containerize, and de
 
 ⚡ REST API powered by FastAPI
 
-🐳 Dockerized application
-
 🔁 CI/CD pipeline using GitHub Actions
 
 🏗️ Tech Stack
@@ -34,8 +32,11 @@ Linting	pylint
 Formatting	black
 API	FastAPI, Uvicorn
 Geolocation	geopy
-Containers	Docker
 CI/CD	GitHub Actions
+
+
+### 🖥️ Run CLI
+`python cli.py --help`
 
 
 
